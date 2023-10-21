@@ -1,0 +1,1 @@
+Point A is outside the convex polygon.

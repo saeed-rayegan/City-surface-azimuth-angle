@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Surface_azimuth", "Surface_azimuth\Surface_azimuth.vcxproj", "{E188782B-71CD-44DA-B5EA-6C243C6C2D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E188782B-71CD-44DA-B5EA-6C243C6C2D10}.Debug|x64.ActiveCfg = Debug|x64
+		{E188782B-71CD-44DA-B5EA-6C243C6C2D10}.Debug|x64.Build.0 = Debug|x64
+		{E188782B-71CD-44DA-B5EA-6C243C6C2D10}.Debug|x86.ActiveCfg = Debug|Win32
+		{E188782B-71CD-44DA-B5EA-6C243C6C2D10}.Debug|x86.Build.0 = Debug|Win32
+		{E188782B-71CD-44DA-B5EA-6C243C6C2D10}.Release|x64.ActiveCfg = Release|x64
+		{E188782B-71CD-44DA-B5EA-6C243C6C2D10}.Release|x64.Build.0 = Release|x64
+		{E188782B-71CD-44DA-B5EA-6C243C6C2D10}.Release|x86.ActiveCfg = Release|Win32
+		{E188782B-71CD-44DA-B5EA-6C243C6C2D10}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DAE12CF-B306-404D-85DC-7F0282976294}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  Surface_azimuth.cpp
+D:\OtherModels\Surface_azimuth\Surface_azimuth\isPointInPolygon.h(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OtherModels\Surface_azimuth\Surface_azimuth\Surface_azimuth.cpp(126,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Surface_azimuth.vcxproj -> D:\OtherModels\Surface_azimuth\x64\Debug\Surface_azimuth.exe
